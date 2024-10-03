@@ -1,0 +1,21 @@
+fof-oauth:
+  admin:
+    settings:
+      providers:
+        logto:
+          description: 使用 Login 来登录/注册你的论坛 {link}
+
+          client_id_label: => fof-oauth.ref.settings.client_id
+          client_secret_label: => fof-oauth.ref.settings.client_secret
+          logto_domain_label: 你的 Logto 前端域名/端点 (不需要 https:// )
+
+  forum:
+    log_in:
+      with_logto_button: 使用 Logto 继续
+
+    providers:
+      logto: '=> fof-oauth.lib.providers.logto'
+
+  lib:
+    providers:
+      logto: Logto

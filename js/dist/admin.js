@@ -1,0 +1,2 @@
+(()=>{var e={n:o=>{var t=o&&o.__esModule?()=>o.default:()=>o;return e.d(t,{a:t}),t},d:(o,t)=>{for(var r in t)e.o(t,r)&&!e.o(o,r)&&Object.defineProperty(o,r,{enumerable:!0,get:t[r]})},o:(e,o)=>Object.prototype.hasOwnProperty.call(e,o)};(()=>{"use strict";const o=flarum.core.compat["admin/app"];var t=e.n(o);const r=flarum.extensions["fof-oauth"];t().initializers.add("gbcl/oauth-logto",(function(){t().extensionData.for("gbcl-logto").registerPage(r.ConfigureWithOAuthPage)}))})(),module.exports={}})();
+//# sourceMappingURL=admin.js.map
