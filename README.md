@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of gbcl/oauth-logto.** Not for installation: use [Packagist](https://packagist.org/packages/gbcl/oauth-logto) or the [upstream repository](https://github.com/GBCLStudio/flarum-oauth-logto).
 
-**0** versions archived · Latest: [`1.0`](https://github.com/flarchive/gbcl-oauth-logto/tree/archive/v1.0) · License: `MIT` · Flarum: `^1.8.0`
+**1** versions archived · Latest: [`1.0`](https://github.com/flarchive/gbcl-oauth-logto/tree/archive/v1.0) · License: `MIT` · Flarum: `^1.8.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0` | 2024-10-03 | `^1.8.0` | [Browse](https://github.com/flarchive/gbcl-oauth-logto/tree/archive/v1.0) |
 
 Catalog entry: [packages/gbcl-oauth-logto.json](https://github.com/flarchive/archive-index/blob/main/packages/gbcl-oauth-logto.json)
 
